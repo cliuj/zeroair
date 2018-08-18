@@ -5,6 +5,14 @@ a prototype shoot-em up game
 ## About:
 This is just a small prototype shoot-em up game with an engine created from scratch with Java and JavaFX.
 
+## How to Run:
+Run "Launcher.java"
+
+**For terminal users:**
+
+javac zeroair/*.java
+java zeroair.Launcher
+
 ## Perfomance:
 The game has extremely poor performance on computers using Windows OS. The game runs fine on a SOLUS OS computer with a SSD.
 
