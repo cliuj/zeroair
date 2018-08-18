@@ -11,6 +11,7 @@ Run "Launcher.java"
 **For terminal users:**
 
 javac zeroair/*.java
+
 java zeroair.Launcher
 
 ## Perfomance:
